@@ -1,0 +1,1 @@
+### Norwegian keyboard layout config
